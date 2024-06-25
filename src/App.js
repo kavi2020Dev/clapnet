@@ -2,7 +2,7 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>Calpnet</div>
+    <div style={{height:'100vh', width:'100vw', backgroundColor:'black', color:'white'}}>Calpnet</div>
   )
 }
 
