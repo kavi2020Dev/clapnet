@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/kavi2020Dev/clapnet.git/static/css/main.e6c13ad2.css",
-    "main.js": "/kavi2020Dev/clapnet.git/static/js/main.f880608c.js",
-    "index.html": "/kavi2020Dev/clapnet.git/index.html",
-    "main.e6c13ad2.css.map": "/kavi2020Dev/clapnet.git/static/css/main.e6c13ad2.css.map",
-    "main.f880608c.js.map": "/kavi2020Dev/clapnet.git/static/js/main.f880608c.js.map"
+    "main.css": "/kavi2020Dev/clapnet/static/css/main.e6c13ad2.css",
+    "main.js": "/kavi2020Dev/clapnet/static/js/main.f880608c.js",
+    "index.html": "/kavi2020Dev/clapnet/index.html",
+    "main.e6c13ad2.css.map": "/kavi2020Dev/clapnet/static/css/main.e6c13ad2.css.map",
+    "main.f880608c.js.map": "/kavi2020Dev/clapnet/static/js/main.f880608c.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
