@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/clapnet/static/css/main.acd7408a.css",
-    "main.js": "/clapnet/static/js/main.8282f8b5.js",
+    "main.css": "/clapnet/static/css/main.b80d7335.css",
+    "main.js": "/clapnet/static/js/main.3b7e0063.js",
     "static/media/signin.png": "/clapnet/static/media/signin.cc133763acdc499809fd.png",
     "static/media/search.png": "/clapnet/static/media/search.cadee8cdb0c0afb1a713.png",
     "index.html": "/clapnet/index.html",
-    "main.acd7408a.css.map": "/clapnet/static/css/main.acd7408a.css.map",
-    "main.8282f8b5.js.map": "/clapnet/static/js/main.8282f8b5.js.map"
+    "main.b80d7335.css.map": "/clapnet/static/css/main.b80d7335.css.map",
+    "main.3b7e0063.js.map": "/clapnet/static/js/main.3b7e0063.js.map"
   },
   "entrypoints": [
-    "static/css/main.acd7408a.css",
-    "static/js/main.8282f8b5.js"
+    "static/css/main.b80d7335.css",
+    "static/js/main.3b7e0063.js"
   ]
 }
